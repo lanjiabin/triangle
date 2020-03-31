@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">triangle</string>
+    <string name="edit_hint">请输入0-1的小数，代表百分比%</string>
+    <string name="button_name">刷新界面</string>
+</resources>
