@@ -1,6 +1,4 @@
 package com.lanjiabin.triangle;
-
-
 import android.app.Activity;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -12,7 +10,7 @@ import android.os.Bundle;
 public class MainActivity extends Activity {
     private Triangle mTriangle;
     private AudioManager mAudioManager;
-    VolumeReceiver mReceiver;
+    private VolumeReceiver mReceiver;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

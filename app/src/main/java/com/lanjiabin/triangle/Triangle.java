@@ -60,7 +60,7 @@ public class Triangle extends View {
         // 绘制填充内容
         mValuePaint = new Paint();
         mValuePaint.setStrokeWidth(2);
-        mValuePaint.setColor(Color.BLUE);
+        mValuePaint.setColor(Color.GREEN);
         mValuePaint.setStyle(Paint.Style.FILL_AND_STROKE);
 
         //外部容器路径
